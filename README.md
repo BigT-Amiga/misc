@@ -6,6 +6,6 @@ Use Devpac v3.18 to compile
 
 genam 3d_bob_field
 
-![Alt text](https://github.com/BigT-Amiga/misc/blob/master/screenshots/3dBobField%20screenshot.png?raw=true "WinUAE screenshot")
+![Alt text](https://github.com/BigT-Amiga/misc/blob/master/screenshots/3dBobField-screenshot.png?raw=true "WinUAE screenshot")
 
 Starfield with BOBs !
